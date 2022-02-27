@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earl of Lothian justice general of the kingdom of Scotland, his discourse to the lords of the justiciary, at the opening of the court at Edinburgh January the 27th. 1690.</title>
+            <author>Lothian, Robert Kerr, Earl of, 1636-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88557</idno>
+            <idno type="STC">Wing L3082</idno>
+            <idno type="STC">ESTC R180068</idno>
+            <idno type="EEBO-CITATION">45504492</idno>
+            <idno type="OCLC">ocm 45504492</idno>
+            <idno type="VID">171809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88557)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2592:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earl of Lothian justice general of the kingdom of Scotland, his discourse to the lords of the justiciary, at the opening of the court at Edinburgh January the 27th. 1690.</title>
+                  <author>Lothian, Robert Kerr, Earl of, 1636-1703.</author>
+               </titleStmt>
+               <extent>[1], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the Society of Stationers ... ,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>Anno Dom. 1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1689-1745 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171809:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <p>THE EARL OF LOTHIAN JUSTICE GENERAL OF THE KINGDOM OF SCOTLAND, HIS DISCOURSE TO THE LORDS of the JUSTICIARY At the Opening of the COURT At <hi>Edinburgh January</hi> the 27th. 1690.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by the Society of Stationers at their Printing-houſe in <hi>Harts-Cloſe</hi> over againſt the <hi>Trone-Church,</hi> Anno Dom. 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:171809:2"/>
+            <!-- PDF PAGE 38 -->
+            <head>THE EARL OF LOTHIAN HIS SPEECH.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Cannot but acknowledge, that when I look upon my ſelf in this Station His Majeſty hath been pleaſed to Honour me with, and conſiders the greatneſs and weight of the Affair, with the want of Experience, and many other perſonal Unfitneſſes I lye under; it could not but add Confuſion to my juſt Apprehenſions, if I were not in a great meaſure aſſured, when I look upon your Lordſhips, men of ſuch eminent Abi<g ref="char:EOLhyphen"/>lities, Integrity and Skill in the Laws and Conſtitutions of this Kingdom; whom His Majeſty hath with ſo much Care and Judg<g ref="char:EOLhyphen"/>ment pick'd out to be Lords of the Juſticiary and Aſſeſſors in this Court.</p>
+            <p>This, <hi>My Lords,</hi> is my Encouragement; as I hope it will prove the En<g ref="char:EOLhyphen"/>couragement, as well as Security of the Kingdom: And indeed nothing being of more Conſequence to the Eſtabliſhing of the Crown, the Peace and Flouriſh<g ref="char:EOLhyphen"/>ing of the Nation, the Calming of the Minds and Apprehenſions of the People, then the Aſſurance of the Impartial Adminiſtration of Juſtice; I am perſwad<g ref="char:EOLhyphen"/>ed this Choice of your Lordſhips, will have that deſirable Effect.</p>
+            <p>I deſire not to look back, or make any Reflections upon the by paſt Miſ<g ref="char:EOLhyphen"/>carriages; I wiſh they were ſo buried in Oblivion, that there were no Remem<g ref="char:EOLhyphen"/>brance nor Veſtige, but in ſo far, as to be a Beacon to make us hold off from making Ship-wrack upon the ſame Rocks: I pray God ſave us from yet un<g ref="char:EOLhyphen"/>diſcovered Shelves.</p>
+            <p>Neither ſhall I <hi>(My Lords)</hi> pretend to diſcant upon Juſtice, it being a more common Theme and beaten Road in Diſcourſe, than impartially put in practice: Yet this, I hope, I may adventure to ſay; That tho' the viciſſitude of humane Affairs in the lapſe of Time, diverſe Deſigns, Corruptions of Men, even Eloquence it ſelf, the grand Sophiſter of Reaſon, hath Diſguis'd, Mask'd and Perplex'd the plain naked Truth: Yet Right and Wrong are ſuch Antipods, are at ſo great a Diſtance, hath ſo different an Aſpect, that they are alwayes known, Talk'd, yea Decided in the very Mercat-place, what ever hath been the Endeavours of unjuſt Power to the contrary: So that which hath been of<g ref="char:EOLhyphen"/>ten renderd difficult and intricat to the moſt Learned, ought and may be Ad<g ref="char:EOLhyphen"/>juſted, to the Capacities of the meaneſt Artizans.</p>
+            <pb n="2" facs="tcp:171809:3"/>
+            <!-- PDF PAGE 39 -->
+            <p>Tho' I muſt confeſs the Corruptions and Wickedneſs of Mankind hath ne<g ref="char:EOLhyphen"/>ceſſitate even Juſtice it ſelf (which of all other things ought to be moſt equal) to encline more to Rigour and Severity then were to be wiſhed; yet it ought to be diſpenced with ſuch Moderation and Candor, that even the Sentence it ſelf might convince the World, if not the Pannel, that there hath not been wan<g ref="char:EOLhyphen"/>ting in it, even Grace and Favour.</p>
+            <p>And tho' it be an old received maxime, That there is equal Injuſtice in ac<g ref="char:EOLhyphen"/>quitting the Guilty and Condemning the Innocent; yet the firſt, as it Savours more of Humanity, ſo the ſurer to be leaned to: But if we would follow the Divine Precept, of doing to another what we would have done to our ſelves; tho' perhaps we came not alwayes up the length of the Rigidity of Humane Laws, yet we would Act by a good Conſcience, and ſeldom commit an Error.</p>
+            <p>So if this one Point were gained (without which Humane Society can never be eſtabliſh'd upon a ſure foundation) as it would do more to ſuppreſs the Vil<g ref="char:EOLhyphen"/>lanous Cruelty, Robery, Murthers, and Depredations of the Barbarous <hi>High<g ref="char:EOLhyphen"/>landers,</hi> and the ſubtil Contrivances of the Thieving Borderers, than many Troops of armed Men; ſo it would give the Countrey, that Aſſurance, the Court that Luſtre, the Government that Reputation, and our ſelves that Peace of Conſcience; that as it would appear in the Satisfaction and Serenity of our Countenances, and in the Confidence of Innocency appearing before us, ſo it would exceedingly ſhew it ſelf to the contrary, in the Apprehenſions and Amazement of the Guilty.</p>
+            <p>But farther, <hi>My Loyds,</hi> ſince it is neither the Goodneſs, nor Fertility of the Soyl, the being nearer, or at a more remote diſtance to the Warmth of the Sun: Theſe, Experience hath ſhewn, hath by their Luxury more contribute to the Miſery, Slavery, and Bondage of the Inhabitants, then any Advan<g ref="char:EOLhyphen"/>tage: Neither is it the Goodneſs of the Laws, moſt of the Nations in the World, even <hi>Pagans</hi> themſelves, having excell'd in them; but it is their paſ<g ref="char:EOLhyphen"/>ſing through ſuch Impure Channels, (their unclean Hands,) whoſe Ambition; Luxury. Pride and Covetouſneſs have rend red ſuch fit Tools, for Tyrannical and Arbitrary Men, that they are never wanting to be made uſe of for the Oppreſſion and Deſtruction of their Country. So if for the future, theſe could be guarded againſt, and all of us would eſteem it our Duty, Honour, and Intereſt, to imitate our Religious, Prudent, Valiant and Juſt Prince and Deliverer; It would not only render us, the moſt Happy People upon Earth, but would give us more true Reputation, than the Glory we boaſt of, by a Suc<g ref="char:EOLhyphen"/>ceſſion of above one hundred Kings, His Majeſtie's Royal Predeceſſors.</p>
+            <p>And if (for my part) I ſhould be ſo Happy, as but to add one grain weight to the Scale of Equity, I ſhould eſteem it the greateſt Advantage, and my ſelf over payed of all the Pains I could ever be capable of, But I ſhall give your Lordſhips no farther Trouble, deſiring you to proceed to the Conſtituting of the Court in its due Forms, that Juſtice may have a ſtraight Courſe, by run<g ref="char:EOLhyphen"/>ning in its proper Channel,</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
